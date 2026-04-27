@@ -3,6 +3,25 @@
 
 ---
 
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](home.png)
+
+### 🔐 Login Page
+![Login Page](login.png)
+
+### 🧾 Register Page
+![Register Page](register.png)
+
+### 📊 User Dashboard
+![Dashboard](dashboard.png)
+
+### 🚗 Slot Booking Interface
+![Slot Booking](slot-selection.png)
+
 ## Project Structure
 
 ```
